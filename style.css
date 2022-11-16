@@ -1,0 +1,24 @@
+.rec{
+    display: inline-block;
+    position: relative;
+    border: 5px solid #000;
+    width: 720px;
+    padding: 10px 50px;
+    text-align: center;
+  }
+  
+  .rec__word{
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .rec__border-word{
+    font-size: 18px;
+    color: #000;
+    background-color: #fff;
+    position: absolute;
+    padding: 10px 20px;
+    bottom: -25px;
+    right: 20px;
+  }
